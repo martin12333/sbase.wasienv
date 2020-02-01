@@ -43,10 +43,14 @@ LIBUTFSRC =\
 	libutf/utf.c\
 	libutf/utftorunestr.c
 
+
+err2019 =\
+	libutil/cp.c\
+	libutil/cp.c
+
 LIBUTIL = libutil.a
 LIBUTILSRC =\
 	libutil/concat.c\
-	libutil/cp.c\
 	libutil/crypt.c\
 	libutil/ealloc.c\
 	libutil/enmasse.c\
